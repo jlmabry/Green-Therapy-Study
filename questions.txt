@@ -1,0 +1,48 @@
+Impact of video games on reaction time
+
+effect of music on memory
+	have people listen to music while trying to recall words, versus not listening to music.
+
+The effect of nature/weather on mood
+	building in the future could be changes in weather changing mood (eg. it was sunny when you started now it's raining).
+
+What are they comparing before and after they go outside or listen to music?
+
+Measure their POMS, Likert Scale
+
+Please answer the following questions about how you are feeling right now:
+
+1. How do you feel right now?
+   - Very Unhappy | Unhappy | Neutral | Happy | Very Happy
+
+2. Rate your current level of stress.
+   - Very Low | Low | Moderate | High | Very High
+
+3. How energized do you feel?
+   - Very Low | Low | Moderate | High | Very High
+
+4. How anxious do you feel at the moment?
+   - Not at all | Slightly | Moderately | Quite a bit | Extremely
+
+5. How calm do you feel?
+   - Very Calm | Calm | Neutral | Tense | Very Tense
+
+6. How satisfied are you with your current state of mind?
+   - Very Dissatisfied | Dissatisfied | Neutral | Satisfied | Very Satisfied
+
+7. How optimistic do you feel about the day ahead?
+   - Very Pessimistic | Pessimistic | Neutral | Optimistic | Very Optimistic
+
+8. How connected do you feel to your surroundings?
+   - Not at all connected | Slightly connected | Moderately connected | Quite connected | Very connected
+
+9. How motivated do you feel?
+   - Very Unmotivated | Unmotivated | Neutral | Motivated | Very Motivated
+
+How much time did you spend in nature today?
+
+Less than 15 minutes | 15-30 minutes | 30-60 minutes | 1-2 hours | More than 2 hours
+
+What type of natural environment were you in?
+
+Park | Forest | Beach | Mountain | Other (please specify)
